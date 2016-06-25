@@ -10,10 +10,9 @@ body{
     border-top-left-radius: 15px;
     background-color: aqua;
 }
-.input{
+.inter{
     float: right;
-    /*margin-right: 0;*/
-    padding-top: 15px;
+    padding: 15px 15px;
 }
 .main{
     margin: 5px 0;
